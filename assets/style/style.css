@@ -3,8 +3,10 @@ h1 {
   background-color: #020202;
   color: #909090;
 }
-h1 :hover {
-  transform: rotate(2);
+
+p {
+  background-color: #13d66e;
+  color: #020202;
 }
 
 /*# sourceMappingURL=style.css.map */
