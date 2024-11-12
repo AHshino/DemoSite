@@ -2,4 +2,7 @@ h1 {
     font-size: 80px;
     background-color: #020202;
     color: #909090;
+    :hover {
+        transform: rotate(2);
+    }
 }
